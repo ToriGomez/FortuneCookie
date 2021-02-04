@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2021
 'Fortune Cookie
-'
+'https://github.com/ToriGomez/FortuneCookie.git
 
 Option Strict On
 Option Explicit On
